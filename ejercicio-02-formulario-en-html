@@ -7,6 +7,7 @@
     <title>Ejercicios 02 - Formularios en HTML</title>
 </head>
 <body>
+    <h2>Ejercicios 02 - Formularios en HTML</h2>
     <form action="/">
         <div>
             <label for="nombre">Nombre</label>
